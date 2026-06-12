@@ -1,11 +1,9 @@
 /*
 AF - Avaliação Final - Linguagens de Programação
 Tema do Projeto: Jogos - Game News
-Aluno 1: Eduarda de Almeida Miranda - RA: 249607
-Aluno 2: Não se aplica - Projeto individual
+Aluno; Eduarda de Almeida Miranda - RA: 249607
 Turma: N2
 Professor: Abimael de Oliveira
-Data de entrega: 07/06
 */
 
 // Função 1: botão de voltar ao topo usando evento de scroll e manipulação de classe CSS.
